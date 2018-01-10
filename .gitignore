@@ -1,4 +1,5 @@
-.idate
+.idate/
 *.html
 __pycache__/
 *.log
+*.png

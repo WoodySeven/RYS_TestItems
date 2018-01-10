@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="TestItemsCode.main.RYS_Test_Code" />
+          <option value="Lib.utils" />
         </list>
       </option>
     </inspection_tool>

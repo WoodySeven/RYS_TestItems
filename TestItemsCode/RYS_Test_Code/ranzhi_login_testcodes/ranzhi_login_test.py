@@ -4,6 +4,8 @@ from selenium import webdriver
 import ddt #可以将将相同流程的代码通过数据驱动ddt进行参数化
 import logging
 import traceback
+from utils import capture_screen
+
 
 test_data = [['admin','123456','退出'],
              ['','','登录失败']]
@@ -35,7 +37,12 @@ class RanzhiLogin(unittest.TestCase):
         time.sleep(3) #如果此处不等待有可能下面的断点判读就会失败
         self.assertIn(flags,driver.page_source)#加入断言的判断
         logging.info("test datas is:{},{},{}".format(admin,password,flags))
-
+        pic_path = capture_screen(driver)
+        if pic_path is None:
+            logging.error("截图不成功")
+        else:
+            logging.info(pic_path)
+        logging.info("test_admin_login_test end....")
 
 if __name__ == '__main__':
     unittest.main()
