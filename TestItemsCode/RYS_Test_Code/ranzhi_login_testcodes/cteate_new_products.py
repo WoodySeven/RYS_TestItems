@@ -10,7 +10,7 @@ test_data = [["星巴克",1,"Tim","123578990","3432423@ty.com","34354543",2,3,4,
              ["金磨坊",0,"Jack","786543567","6756788@ty.com","567567546",7,4,5,2,"无合作的倾向"]]
 
 @ddt.ddt
-class CreateNewClients(unittest.TestCase):
+class CreateNewProducts(unittest.TestCase):
 
     def setUp(self):
         """开始函数打开谷歌浏览器"""
@@ -77,7 +77,7 @@ class CreateNewClients(unittest.TestCase):
             contact = input("联系人为必选项不能为空，请输入{}的联系人".format(name))
         #driver.find_element_by_xpath("//*[@id=\"contact\"]").send_keys("任永生")
         #//*[@id="phone"] 电话输入框
-        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[3]/descendant::input[@id='phone']").send_keys(phone)
+        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[3]/descendant::input[@id='phone']").send_keys("15139098493")
         #driver.find_element_by_xpath("//*[@id=\"phone\"]").send_keys("15139098493")
         #//*[@id="email"] 邮箱输入框
         driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[4]/descendant::input[@id='email']").send_keys(r"1145254583@qq.com")
