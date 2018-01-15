@@ -34,11 +34,12 @@ class CreateNewProducts(unittest.TestCase):
         driver.find_element_by_id("password").send_keys("123456")
         driver.find_element_by_id("submit").click()
         time.sleep(3)
-        if self.assertIn("所有应用",driver.page_source) is True:
-            logging.info("admin用户登陆成功...")
+        a = "退出"
+        if a in driver.page_source:
+            logging("然之协调登陆成功...")
         else:
-            logging.info("admin用户登陆失败")
-        #//*[@id="s-menu-1"]/button/img 客户管理
+            logging("然之协调登陆失败...")
+       #//*[@id="s-menu-1"]/button/img 客户管理
         driver.find_element_by_xpath("//*[@id=\"s-menu-1\"]/button/img").click()
         time.sleep(2)
         #//*[@id="iframe-1"]

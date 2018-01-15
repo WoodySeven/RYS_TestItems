@@ -80,10 +80,10 @@ class CreateNewClients(unittest.TestCase):
         driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[3]/descendant::input[@id='phone']").send_keys(phone)
         #driver.find_element_by_xpath("//*[@id=\"phone\"]").send_keys("15139098493")
         #//*[@id="email"] 邮箱输入框
-        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[4]/descendant::input[@id='email']").send_keys(r"1145254583@qq.com")
+        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[4]/descendant::input[@id='email']").send_keys(email)
         #driver.find_element_by_xpath("//*[@id=\"email\"]").send_keys("1145254583@qq.com")
         #//*[@id="qq"] qq输入框
-        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[5]/descendant::input[@id='qq']").send_keys(r"1145254583@qq.com")
+        driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[5]/descendant::input[@id='qq']").send_keys(qq)
         #driver.find_element_by_xpath("//*[@id=\"qq\"]").send_keys("1145254583")
         #//*[@id="type"]/option[2]     类型下拉框的选择1-8
         if type>0 and type<9:
@@ -119,6 +119,11 @@ class CreateNewClients(unittest.TestCase):
         #driver.find_element_by_xpath("//div[@class='panel']/div[2]/form/table/tbody/tr[11]/descendant::input[@value='返回']").click()
         logging.info("客户添加结束 end.....")
         time.sleep(5)
+        pic_path = capture_screen(driver)
+        if pic_path is None:
+            logging.info("截图不成功")
+        else:
+            logging.info(pic_path)
         #self.assertIn(name,driver.page_source)
 
 if __name__ == '__main__':

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d9c45f-89e6-45af-85f2-d2d73093ac93" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TestItemsCode/main.py" afterPath="$PROJECT_DIR$/TestItemsCode/main.py" />
+      <change beforePath="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py" afterPath="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py" />
+      <change beforePath="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py" afterPath="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,109 +16,34 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_ranzhi_login_test_py.coverage" NAME="Unittests in ranzhi_login_test.py Coverage Results" MODIFIED="1515505823853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
-    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_create_new_clients_py.coverage" NAME="Unittests in create_new_products.py Coverage Results" MODIFIED="1515683881248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
+    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_create_new_clients_py.coverage" NAME="Unittests in create_new_clients.py Coverage Results" MODIFIED="1515687432343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
     <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_create_new_products_py.coverage" NAME="Unittests in create_new_products.py Coverage Results" MODIFIED="1515684102248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
-    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_cteate_new_products_py.coverage" NAME="Unittests in cteate_new_products.py Coverage Results" MODIFIED="1515685079614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
+    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_cteate_new_products_py.coverage" NAME="Unittests in cteate_new_products.py Coverage Results" MODIFIED="1515929514326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
+    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_for_cteate_new_products_CreateNewProducts_test_create_new_clients.coverage" NAME="Unittests for cteate_new_products.CreateNewProducts.test_create_new_clients Coverage Results" MODIFIED="1515927996585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
+    <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_in_selenium_server_standalone_Chrom_py.coverage" NAME="Unittests in selenium-server-standalone-Chrom.py Coverage Results" MODIFIED="1516030281556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/selenium-server-standalone" />
+    <SUITE FILE_PATH="coverage/RYS_TestItems$.coverage" NAME="太阳 Coverage Results" MODIFIED="1515934335033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode" />
     <SUITE FILE_PATH="coverage/RYS_TestItems$Unittests_for_ranzhi_login_test_MyTestCase_test_ranzhi_login_username.coverage" NAME="Unittests for ranzhi_login_test.MyTestCase.test_ranzhi_login_username Coverage Results" MODIFIED="1515334391512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
     <SUITE FILE_PATH="coverage/RYS_TestItems$main.coverage" NAME="main Coverage Results" MODIFIED="1515685644361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestItemsCode" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BugfreeLoginOut.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/Bugfree_Login_testcodes/BugfreeLoginOut.py">
+      <file leaf-file-name="selenium-server-standalone-Chrom.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestItemsCode/selenium-server-standalone/selenium-server-standalone-Chrom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="635">
+              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#22#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ranzhi_login_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/ranzhi_login_test.py">
+      <file leaf-file-name="太阳.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestItemsCode/太阳.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ddt.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python36/Lib/site-packages/ddt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding>
-                <element signature="e#34#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_new_orders.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_orders.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cteate_new_products.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="113" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_new_clients.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1363">
-              <caret line="79" column="138" lean-forward="false" selection-start-line="79" selection-start-column="138" selection-end-line="79" selection-end-column="138" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python36/Lib/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17730">
-              <caret line="604" column="0" lean-forward="false" selection-start-line="604" selection-start-column="0" selection-end-line="604" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="element_handle.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/自动化第七期/FangCloudV2/自动化第七期/autotest2018/第二阶段 掌握Selenium框架Robot Framework/5.Selenium元素操作练习/脚本/element_handle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -144,9 +70,12 @@
         <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/ranzhi_login_test.py" />
         <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_orders.py" />
         <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py" />
-        <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py" />
         <option value="$PROJECT_DIR$/TestItemsCode/main.py" />
         <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py" />
+        <option value="$PROJECT_DIR$/TestItemsCode/钟表图形.py" />
+        <option value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py" />
+        <option value="$PROJECT_DIR$/TestItemsCode/太阳.py" />
+        <option value="$PROJECT_DIR$/TestItemsCode/selenium-server-standalone/selenium-server-standalone-Chrom.py" />
       </list>
     </option>
   </component>
@@ -156,11 +85,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="6" />
-    <option name="y" value="6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="84" />
     <option name="width" value="1315" />
-    <option name="height" value="733" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,6 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,33 +126,12 @@
               <item name="RYS_TestItems" type="b2602c69:ProjectViewProjectNode" />
               <item name="RYS_TestItems" type="462c0819:PsiDirectoryNode" />
               <item name="TestItemsCode" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RYS_TestItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RYS_TestItems" type="462c0819:PsiDirectoryNode" />
-              <item name="TestItemsCode" type="462c0819:PsiDirectoryNode" />
-              <item name="RYS_Test_Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RYS_TestItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RYS_TestItems" type="462c0819:PsiDirectoryNode" />
-              <item name="TestItemsCode" type="462c0819:PsiDirectoryNode" />
-              <item name="RYS_Test_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="ranzhi_login_testcodes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RYS_TestItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RYS_TestItems" type="462c0819:PsiDirectoryNode" />
-              <item name="TestItemsCode" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-server-standalone" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,8 +156,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in selenium-server-standalone-Chrom.py">
+    <configuration name="钟表图形" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -261,13 +170,32 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RYS_TestItems" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestItemsCode/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestItemsCode/钟表图形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for ranzhi_login_test.MyTestCase.test_ranzhi_login_username" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="太阳" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestItemsCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RYS_TestItems" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestItemsCode/太阳.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for cteate_new_products.CreateNewProducts.test_create_new_clients" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -279,10 +207,10 @@
       <module name="RYS_TestItems" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ranzhi_login_test.MyTestCase.test_ranzhi_login_username&quot;" />
+      <option name="_new_target" value="&quot;cteate_new_products.CreateNewProducts.test_create_new_clients&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in create_new_products.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in create_new_clients.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -294,7 +222,7 @@
       <module name="RYS_TestItems" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in cteate_new_products.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -312,35 +240,35 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="Unittests in ranzhi_login_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in selenium-server-standalone-Chrom.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestItemsCode/selenium-server-standalone" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RYS_TestItems" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/ranzhi_login_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestItemsCode/selenium-server-standalone/selenium-server-standalone-Chrom.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ranzhi_login_test.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for ranzhi_login_test.MyTestCase.test_ranzhi_login_username" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in create_new_products.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in cteate_new_products.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in cteate_new_products.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in create_new_clients.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.钟表图形" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for cteate_new_products.CreateNewProducts.test_create_new_clients" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in selenium-server-standalone-Chrom.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in selenium-server-standalone-Chrom.py" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in cteate_new_products.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in create_new_products.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in ranzhi_login_test.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for ranzhi_login_test.MyTestCase.test_ranzhi_login_username" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for cteate_new_products.CreateNewProducts.test_create_new_clients" />
+        <item index="3" class="java.lang.String" itemvalue="Python.钟表图形" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in create_new_clients.py" />
       </list>
     </recent_temporary>
   </component>
@@ -361,24 +289,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_create_new_clients_py - 2018.01.11 at 00h 57m 45s.xml">
-      <configuration name="Unittests in create_new_clients.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_create_new_clients_py - 2018.01.11 at 01h 15m 01s.xml">
-      <configuration name="Unittests in create_new_clients.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_create_new_products_py - 2018.01.11 at 23h 16m 11s.xml">
-      <configuration name="Unittests in create_new_products.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_create_new_products_py - 2018.01.11 at 23h 18m 12s.xml">
-      <configuration name="Unittests in create_new_products.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_create_new_products_py - 2018.01.11 at 23h 21m 54s.xml">
-      <configuration name="Unittests in create_new_products.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.11 at 23h 27m 25s.xml">
-      <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.11 at 23h 28m 47s.xml">
       <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
     </history-entry>
@@ -391,18 +301,36 @@
     <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.11 at 23h 39m 19s.xml">
       <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.14 at 19h 14m 48s.xml">
+      <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.14 at 19h 31m 52s.xml">
+      <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cteate_new_products_py - 2018.01.14 at 19h 32m 37s.xml">
+      <configuration name="Unittests in cteate_new_products.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_selenium-server-standalone-Chrom_py - 2018.01.15 at 23h 25m 54s.xml">
+      <configuration name="Unittests in selenium-server-standalone-Chrom.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_selenium-server-standalone-Chrom_py - 2018.01.15 at 23h 30m 35s.xml">
+      <configuration name="Unittests in selenium-server-standalone-Chrom.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_selenium-server-standalone-Chrom_py - 2018.01.15 at 23h 31m 37s.xml">
+      <configuration name="Unittests in selenium-server-standalone-Chrom.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="6" width="1315" height="733" extended-state="1" />
+    <frame x="84" y="0" width="1315" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3354735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3354531" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2586605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25789067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,12 +357,49 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>if self.assertIn(&quot;所有应用&quot;,driver.title):</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(self.assertIn(&quot;所有应用&quot;,driver.page_source))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.assertIn(&quot;然之协调&quot;,driver.title)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(a)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a=self.assertIn(&quot;所有应用&quot;,driver.page_source)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.assertIn(&quot;所有应用&quot;,driver.page_source)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[6]/descendant::option[2]&quot;).click()</expression-string>
         <language-id>Python</language-id>
@@ -450,46 +415,81 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[1]/descendant::input[id='public']&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[1]/descendant::input[2]&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[1]/descendant::input[@id='name']&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[1]&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.find_element_by_xpath(&quot;//div[@class='panel']/div[2]/form/table/tbody/tr[1]/descendant::input[1]&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://C:/Python36/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32490">
+          <caret line="1083" column="82" lean-forward="true" selection-start-line="1083" selection-start-column="82" selection-end-line="1083" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="126" column="40" lean-forward="true" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/Lib/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/自动化资料备份/autotest2018/第二阶段 掌握Selenium框架Robot Framework/7.Selenium Grid/脚本/test_selenium_server_remote_multithreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/钟表图形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/log/logger.log.20180109-21.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="97" lean-forward="true" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/太阳.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/Bugfree_Login_testcodes/BugfreeLoginOut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,7 +498,7 @@
         <state relative-caret-position="150">
           <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -507,9 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#34#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,25 +529,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py" />
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/Bugfree_Login_testcodes/BugfreeLoginOut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,7 +545,7 @@
         <state relative-caret-position="150">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -569,6 +554,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#34#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,7 +584,7 @@
         <state relative-caret-position="60">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -664,13 +644,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/screenshots/mypic_2018-01-09 21-46-17.png" />
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/Lib/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="16" column="80" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestItemsCode/log/logger.log.20180108-23.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -682,77 +655,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python36/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17730">
-          <caret line="604" column="0" lean-forward="false" selection-start-line="604" selection-start-column="0" selection-end-line="604" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py" />
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/Bugfree_Login_testcodes/BugfreeLoginOut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4033">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_products.py" />
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_orders.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/ranzhi_login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="113" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,18 +693,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/Lib/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32100">
+          <caret line="1083" column="82" lean-forward="false" selection-start-line="1083" selection-start-column="82" selection-end-line="1083" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/自动化资料备份/autotest2018/第二阶段 掌握Selenium框架Robot Framework/7.Selenium Grid/脚本/test_selenium_server_remote_multithreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/log/logger.log.20180109-21.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="97" lean-forward="false" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/钟表图形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#34#48#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/create_new_clients.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1363">
-          <caret line="79" column="138" lean-forward="false" selection-start-line="79" selection-start-column="138" selection-end-line="79" selection-end-column="138" />
+        <state relative-caret-position="270">
+          <caret line="126" column="40" lean-forward="false" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/cteate_new_products.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/RYS_Test_Code/ranzhi_login_testcodes/ranzhi_login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/太阳.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestItemsCode/selenium-server-standalone/selenium-server-standalone-Chrom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
