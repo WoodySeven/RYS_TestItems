@@ -9,7 +9,7 @@ from utils import capture_screen
 test_data = [["星巴克",1,"Tim","123578990","3432423@ty.com","34354543",2,3,4,5,"希望下次合作"],
              ["金磨坊",0,"Jack","786543567","6756788@ty.com","567567546",7,4,5,2,"无合作的倾向"]]
 
-@ddt.ddt
+#@ddt.ddt
 class CreateNewClients(unittest.TestCase):
 
     def setUp(self):
@@ -23,8 +23,8 @@ class CreateNewClients(unittest.TestCase):
         """关闭谷歌浏览器"""
         self.driver.quit()
         logging.info("关闭谷歌浏览器")
-    @ddt.unpack
-    @ddt.data(*test_data)
+    #@ddt.unpack
+    #@ddt.data(*test_data)
     def test_create_new_clients(self,name,public,contact,phone,email,qq,type,scale,status,level,intension):
         logging.info("test_create_new_clients start.....")
         driver = self.driver

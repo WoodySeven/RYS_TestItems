@@ -5,17 +5,19 @@ import time
 import traceback
 import unittest
 import HTMLTestRunner
-from RYS_Test_Code.Bugfree_Login_testcodes.BugfreeLoginOut import BugfreeLogin
-from RYS_Test_Code.ranzhi_login_testcodes.ranzhi_login_test import RanzhiLogin
-from RYS_Test_Code.ranzhi_login_testcodes.create_new_clients import CreateNewClients
+#from RYS_Test_Code.Bugfree_Login_testcodes.BugfreeLoginOut import BugfreeLogin
+#from RYS_Test_Code.ranzhi_login_testcodes.ranzhi_login_test import RanzhiLogin
+#from RYS_Test_Code.ranzhi_login_testcodes.create_new_clients import CreateNewClients
+#from RYS_Test_Code.ranzhi_login_testcodes.create_new_products import CreateNewProducts
+from TestItemsCode.RYS_Test_Code.ranzhi_login_testcodes.create_new_clients_fenzhuang import CreateNewClient
 #调用自写的测试用例的类
-from Lib.Logger import Logger
+from TestItemsCode.lib1.Logger import Logger
 
 
 if __name__ == "__main__":
     logger = Logger('./log/logger.log',logging.INFO) #logging 必须导入logging的类
     logging.info("本次测试开始执行，以下是详细的流程日志")
-    list1 = [RanzhiLogin,CreateNewClients]
+    list1 = [CreateNewClient]
     for list2 in list1:
         try:
             suite = unittest.TestSuite() #创建一个新的suite测试套件

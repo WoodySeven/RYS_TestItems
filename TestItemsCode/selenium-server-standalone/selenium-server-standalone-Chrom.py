@@ -3,7 +3,7 @@
 import time
 import unittest
 import TestItemsCode.太阳
-from selenium.webdriver import Remote
+from selenium.webdriver import Remote #引入Remote
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 class TestChrome(unittest.TestCase):
