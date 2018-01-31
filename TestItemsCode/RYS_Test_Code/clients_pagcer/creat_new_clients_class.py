@@ -1,4 +1,4 @@
-#1/usr/bin/env python
+#!/usr/bin/env python
 from TestItemsCode.lib1.common_logic import *
 from TestItemsCode.lib1.utils import *
 

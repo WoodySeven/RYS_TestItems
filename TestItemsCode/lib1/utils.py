@@ -100,14 +100,39 @@ def get_random_intension():
     population = ["购买意向强烈","购买意向一般","希望再次进一步详细了解","无购买意向"]
     #print(random.choice(population))
     return random.choice(population)
+def get_random_fax():
+    population = '0123456789'
+    phone = ''.join(random.choices(population, k=8))
+    #print(phone)
+    return phone
+
+def get_random_department_and_position():
+    departments = ['研发部','销售','测试部','董事会']
+    positions1 = ['研发工程师','研发助理','研发组长','研发经理']
+    positions2 = ['销售','销售助理','销售经理']
+    positions3 = ['测试工程师','测试助理','测试组长','测试经理']
+    positions4 = ['公司董事长','公司总经理','CEO']
+    department = random.choice(departments)
+    if department is '研发部':
+        position = random.choice(positions1)
+    elif department is '销售':
+        position = random.choice(positions2)
+    elif department is '测试部':
+        position = random.choice(positions3)
+    else:
+        position = random.choice(positions4)
+
+    #print(department,position)
+    return {"departments": department, "positions": position}
 
 if __name__=="__main__":
-    get_random_customer_name()
-    get_random_public()
-    get_random_string()
-    get_random_phone()
-    get_random_qq_email()
-    get_random_type()
-    get_random_scale_and_status()
-    get_random_level()
-    get_random_intension()
+    #get_random_public()
+    #get_random_string()
+    #get_random_phone()
+    #get_random_qq_email()
+    #get_random_type()
+    #get_random_scale_and_status()
+    #get_random_level()
+    #get_random_intension()
+    #get_random_fax()
+    get_random_department_and_position()

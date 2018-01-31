@@ -10,6 +10,7 @@ import HTMLTestRunner
 #from RYS_Test_Code.ranzhi_login_testcodes.create_new_clients import CreateNewClients
 #from RYS_Test_Code.ranzhi_login_testcodes.create_new_products import CreateNewProducts
 from TestItemsCode.RYS_Test_Code.ranzhi_login_testcodes.create_new_clients_fenzhuang import CreateNewClient
+from TestItemsCode.RYS_Test_Code.customers_dome.create_contacts import MyContactTestCase
 from TestItemsCode.RYS_Test_Code.customers_dome.crate_customers import MyTestCase
 #调用自写的测试用例的类
 from TestItemsCode.lib1.Logger import Logger
@@ -23,7 +24,8 @@ if __name__ == "__main__":
     try:
         suite = unittest.TestSuite() #创建一个新的suite测试套件
         loader = unittest.TestLoader() #新建一个加载器，自定义的方式把测试用例加载到suite里
-        suite.addTest(loader.loadTestsFromTestCase(MyTestCase)) #把RanzhiLogin测试类里的所有的方法加载到suite里
+        #suite.addTest(loader.loadTestsFromTestCase(MyTestCase)) #把RanzhiLogin测试类里的所有的方法加载到suite里
+        suite.addTest(loader.loadTestsFromTestCase(MyContactTestCase))
         fp = open('reports/RYS_report_bugfree_{0}.html'.format(time.strftime("%Y-%m-%d %H-%M-%S")),'wb') #再reports文件夹里创建并打开所创建.html文件
         runner = HTMLTestRunner.HTMLTestRunner(
             stream = fp,
